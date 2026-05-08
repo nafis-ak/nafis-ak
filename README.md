@@ -28,16 +28,15 @@ Currently developing skills in Python, data analysis, and foundational machine l
 
 ## Featured Work
 
-<p align="center">
-  <a href="https://github.com/nafis-ak/asif-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-ak&repo=asif-portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/nafis-ak/LogicScript-Compiler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-ak&repo=LogicScript-Compiler&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<div align="center">
 
----
+### Portfolio Website  
+🔗 https://nafis-ak.github.io/asif-portfolio/
+
+### LogicScript Compiler  
+🔗 https://github.com/nafis-ak/LogicScript-Compiler
+
+</div>
 
 ## Tech Stack
 
