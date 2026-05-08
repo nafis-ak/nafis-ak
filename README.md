@@ -1,7 +1,7 @@
 <h1 align="center">Md. Asif Khandoker</h1>
 
 <p align="center">
-AI & Data Science Enthusiast building skills in Python, data analysis, and machine learning
+AI & Data Science Enthusiast building strong foundations in Python, data analysis, and machine learning
 </p>
 
 <p align="center">
@@ -10,17 +10,26 @@ AI & Data Science Enthusiast building skills in Python, data analysis, and machi
 
 ---
 
-## Overview
+## About
 
-Focused on developing a strong foundation in data science and machine learning.  
-Working step by step toward building intelligent and explainable systems.
+Computer Science student focused on Artificial Intelligence and Data Science.  
+Currently developing skills in Python, data analysis, and foundational machine learning while building practical projects.
+
+---
+
+## Current Focus
+
+- Python for data analysis and problem solving  
+- Machine learning fundamentals  
+- Building small real-world projects  
+- Improving consistency and problem-solving skills  
 
 ---
 
 ## Featured Work
 
 <p align="center">
-  <a href="https://nafis-ak.github.io/asif-portfolio/">
+  <a href="https://github.com/nafis-ak/asif-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-ak&repo=asif-portfolio&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/nafis-ak/LogicScript-Compiler">
@@ -38,7 +47,7 @@ Working step by step toward building intelligent and explainable systems.
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nafis-ak&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
