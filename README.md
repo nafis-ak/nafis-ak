@@ -1,74 +1,74 @@
 <h1 align="center">Md. Asif Khandoker</h1>
+
 <p align="center">
-AI & Data Science Enthusiast focused on building strong foundations in Python, data analysis, and machine learning
+AI & Data Science Enthusiast building skills in Python, data analysis, and machine learning
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00E5FF&center=true&vCenter=true&width=600&lines=Learning+Machine+Learning+Step+by+Step;Building+Projects+with+Python;Exploring+Data+Driven+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&color=00E5FF&center=true&vCenter=true&width=650&lines=Learning+Machine+Learning;Building+Data+Driven+Projects;Focused+on+Continuous+Growth" />
 </p>
 
 ---
 
-## About
+## Overview
 
-I am a Computer Science student with a growing interest in Artificial Intelligence and Data Science.  
-Currently focused on strengthening core skills in Python, data analysis, and foundational machine learning.  
-
-I aim to build practical, real-world projects and gradually move toward advanced AI systems.
+Focused on developing a strong foundation in data science and machine learning.  
+Working step by step toward building intelligent and explainable systems.
 
 ---
 
-## Current Focus
+## Featured Work
 
-- Python for data analysis and problem solving  
-- Understanding machine learning fundamentals  
-- Building small, meaningful projects  
-- Improving logical thinking and coding consistency  
-
----
-
-## Skills
-
-**Programming**
-- Python  
-- Basic Java  
-
-**Data & Tools**
-- Pandas  
-- NumPy  
-- Matplotlib  
-
-**Concepts**
-- Data Analysis  
-- Machine Learning (Learning Stage)  
-- Problem Solving  
+<p align="center">
+  <a href="https://nafis-ak.github.io/asif-portfolio/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-ak&repo=asif-portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/nafis-ak/LogicScript-Compiler">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nafis-ak&repo=LogicScript-Compiler&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-## Projects
+## Tech Stack
 
-- Portfolio Website  
-  https://nafis-ak.github.io/asif-portfolio/
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github" />
+</p>
 
-- More projects will be added as I progress
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafis-ak&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafis-ak&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nafis-ak&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nafis-ak/nafis-ak/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## Connect
 
-- LinkedIn  
-  https://www.linkedin.com/in/md-asif-khandoker  
-
-- Email  
-  asifkhandoker.media@gmail.com  
-
----
-
-## GitHub Overview
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nafis-ak&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafis-ak&theme=tokyonight&hide_border=true" width="48%" />
+  <a href="https://www.linkedin.com/in/md-asif-khandoker">LinkedIn</a> |
+  <a href="mailto:asifkhandoker.media@gmail.com">Email</a> |
+  <a href="https://nafis-ak.github.io/asif-portfolio/">Portfolio</a>
 </p>
 
 ---
